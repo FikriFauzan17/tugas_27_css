@@ -1,0 +1,36 @@
+.col-md-12{
+  background: #00ffffff;
+  border: 1px solid;
+  padding: 10px;
+  color: #ffffffff;
+}
+.col-md-10{
+  background: green;
+  border: 1px solid;
+  padding: 10px;
+  color: #ffffffff;
+}
+.col-md-8{
+  background: blue;
+  border: 1px solid;
+  padding: 10px;
+  color: #ffffffff;
+}
+.col-md-6{
+  background: red;
+  border: 1px solid;
+  padding: 10px;
+  color: #ffffffff;
+}
+.col-md-4{
+  background: yellow;
+  border: 1px solid;
+  padding: 10px;
+  color: #ffffffff;
+}
+.col-md-2{
+  background: purple;
+  border: 1px solid;
+  padding: 10px;
+  color: #ffffffff;
+}
